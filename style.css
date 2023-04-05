@@ -1,5 +1,21 @@
 body {
 background-color: #FF6347;
+
+}
+
+.cabecalho {
+
+background-color: #800000;
+
+}
+.cabecalho__imagem {
+width: 130px;
+height: 157px;
+border-radius: 600px;
+margin: 30px 30px 30px 200px
+
+
+
 }
 .cabecalho {
     background-color: #800000;
