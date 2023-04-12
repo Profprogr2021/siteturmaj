@@ -4,15 +4,25 @@ background-color: #FF6347;
 }
 
 .cabecalho {
-width: 20%
-backgroun-color: 
-display: flex;
-border-radius: 0px 0px 0px 150px
+    display: flex;
+    background-color: #800000;
+    justify-content: space-around;
+    border-radius: 0px 0px 0px 150px
 }
 .cabecalho__imagem {
 width: 130px;
 height: 157px;
 border-radius: 600px;
 margin: 30px 30px 30px 200px
+}
+.cabecalho__menu{
+    display: inline;
+}
 
 
+.cabecalho__menu-item{
+    display: inline;
+    margin-left: 20px;
+    color: #deb887;
+    font-size: 32px;
+}
