@@ -6,6 +6,9 @@ background-color: #FF6347;
 .cabecalho {
 width: 20%
 background-color: #80000;
+
+color: maroon;
+display: flex;
 border-radius: 0px 0px 0px 150px
 }
 .cabecalho__imagem {
